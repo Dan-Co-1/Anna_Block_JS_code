@@ -1,0 +1,11 @@
+h1 {
+    background-color: rgb(178, 143, 211);
+    color: rgb(95, 32, 122);
+    text-align: center;
+    padding: 24px;
+    margin: 0 20%;
+    border-radius: 1.5em;
+    font-size: 5em;
+    letter-spacing: 0.2em;
+    font-family:'Courier New', Courier, monospace;
+}
